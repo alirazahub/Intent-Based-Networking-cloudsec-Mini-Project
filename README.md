@@ -600,18 +600,6 @@ Correct policy generation required:
 
 ---
 
-# Future Work
-
-Future improvements may include:
-
-- Agentic AI workflows
-- Automated policy validation
-- Dynamic topology-aware policy generation
-- Reinforcement learning for policy optimization
-- Continuous runtime verification
-- Advanced egress enforcement
-
----
 
 # Screenshots
 
