@@ -1,0 +1,27 @@
+NAMESPACE            NAME                                                READY   STATUS    RESTARTS        AGE
+default              adservice-848c5d6f88-hrbfw                          1/1     Running   0               175m
+default              cartservice-59d44fb67-2vlp8                         1/1     Running   0               175m
+default              checkoutservice-54475449f4-2k9p6                    1/1     Running   0               175m
+default              currencyservice-6bbd8c95f4-rmppq                    1/1     Running   0               175m
+default              emailservice-68dd7ccf64-78nkc                       1/1     Running   13 (126m ago)   175m
+default              frontend-6b8fcb997-sj8hx                            1/1     Running   0               175m
+default              loadgenerator-8599589654-j7xqt                      1/1     Running   0               175m
+default              paymentservice-cc458477b-kh2cg                      1/1     Running   0               175m
+default              productcatalogservice-7d7957447b-n5rqg              1/1     Running   0               175m
+default              recommendationservice-84d6f4488d-pjj4x              1/1     Running   0               175m
+default              redis-cart-c4fc658fb-8jpn4                          1/1     Running   0               175m
+default              shippingservice-69f6756b4d-q2mpz                    1/1     Running   0               175m
+kube-system          coredns-674b8bbfcf-cqw67                            1/1     Running   0               176m
+kube-system          coredns-674b8bbfcf-xw9xv                            1/1     Running   0               176m
+kube-system          etcd-mp4-cluster-control-plane                      1/1     Running   0               176m
+kube-system          kindnet-7477m                                       1/1     Running   0               176m
+kube-system          kindnet-tqr9m                                       1/1     Running   0               176m
+kube-system          kindnet-vv8sq                                       1/1     Running   0               176m
+kube-system          kube-apiserver-mp4-cluster-control-plane            1/1     Running   0               176m
+kube-system          kube-controller-manager-mp4-cluster-control-plane   1/1     Running   0               176m
+kube-system          kube-proxy-2rtrp                                    1/1     Running   0               176m
+kube-system          kube-proxy-lf9vr                                    1/1     Running   0               176m
+kube-system          kube-proxy-w2lvr                                    1/1     Running   0               176m
+kube-system          kube-scheduler-mp4-cluster-control-plane            1/1     Running   0               176m
+kubesonde-system     kubesonde-controller-manager-dd874967-lrjcz         1/1     Running   0               122m
+local-path-storage   local-path-provisioner-7dc846544d-2qj6f             1/1     Running   0               176m

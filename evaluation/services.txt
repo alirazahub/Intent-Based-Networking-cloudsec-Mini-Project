@@ -1,0 +1,15 @@
+NAMESPACE     NAME                    TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)                  AGE
+default       adservice               ClusterIP      10.96.187.77    <none>        9555/TCP                 175m
+default       cartservice             ClusterIP      10.96.194.17    <none>        7070/TCP                 175m
+default       checkoutservice         ClusterIP      10.96.138.85    <none>        5050/TCP                 175m
+default       currencyservice         ClusterIP      10.96.125.155   <none>        7000/TCP                 175m
+default       emailservice            ClusterIP      10.96.250.83    <none>        5000/TCP                 175m
+default       frontend                ClusterIP      10.96.169.216   <none>        80/TCP                   175m
+default       frontend-external       LoadBalancer   10.96.143.119   <pending>     80:31497/TCP             175m
+default       kubernetes              ClusterIP      10.96.0.1       <none>        443/TCP                  176m
+default       paymentservice          ClusterIP      10.96.39.55     <none>        50051/TCP                175m
+default       productcatalogservice   ClusterIP      10.96.5.229     <none>        3550/TCP                 175m
+default       recommendationservice   ClusterIP      10.96.12.156    <none>        8080/TCP                 175m
+default       redis-cart              ClusterIP      10.96.208.44    <none>        6379/TCP                 175m
+default       shippingservice         ClusterIP      10.96.66.254    <none>        50051/TCP                175m
+kube-system   kube-dns                ClusterIP      10.96.0.10      <none>        53/UDP,53/TCP,9153/TCP   176m

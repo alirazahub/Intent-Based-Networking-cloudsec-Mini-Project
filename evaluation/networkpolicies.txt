@@ -1,0 +1,5 @@
+NAMESPACE   NAME                                                                POD-SELECTOR                AGE
+default     paymentservice-allow-only-checkout                                  app=paymentservice          24m
+default     productcatalogservice-allow-only-frontend-checkout-recommendation   app=productcatalogservice   19m
+default     recommendationservice-allow-only-frontend                           app=recommendationservice   39m
+default     redis-cart-allow-only-cartservice                                   app=redis-cart              59m
