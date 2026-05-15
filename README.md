@@ -653,5 +653,5 @@ Including:
 # Author
 
 Ali Raza  
-Master’s Student – Computer Science  
+Master’s Student – Computer Networks & IOT  
 Conservatoire national des arts et métiers (CNAM Paris)
