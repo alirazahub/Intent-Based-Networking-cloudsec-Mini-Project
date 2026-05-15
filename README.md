@@ -48,6 +48,14 @@ The following microservices from the Online Boutique application were deployed:
 
 ---
 
+# Microservices Architecture
+
+The following diagram shows the Online Boutique microservices topology and the implemented NetworkPolicy restrictions.
+
+![Architecture Diagram](topology/architecture-diagram.png)
+
+---
+
 # Tools and Technologies
 
 - Kubernetes
